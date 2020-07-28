@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://imgflip.com/gif/45tkmp">
+<img align="right" width="260" height="260" src="https://imgflip.com/gif/45tkmp">
  
 # Welcome!
  
