@@ -3,7 +3,7 @@
  
 ## I'm Denner!A brief description about me:
  
-junior programmer ruby on rails.
+Programmer ruby on rails.
 I love everything related to programming. 
 ## SKILLS 
 <p align="center">
